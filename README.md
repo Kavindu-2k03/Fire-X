@@ -1,6 +1,6 @@
 <p align="center">
    
-   <a href="https://github.com/TeamEviral/Fire-X">
+   <a href="https://github.com/Kavindu-2k03/Fire-X">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
    </a>
    <br>
